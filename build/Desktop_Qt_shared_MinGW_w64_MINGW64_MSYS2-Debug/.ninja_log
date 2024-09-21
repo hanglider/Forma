@@ -1,0 +1,8 @@
+# ninja log v6
+13	1534	7486119214915734	Forma_autogen/timestamp	e2ef38abb261c326
+13	1534	7486119214915734	Forma_autogen/mocs_compilation.cpp	e2ef38abb261c326
+13	1534	7486119214915734	C:/IT/Forma/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/Forma_autogen/timestamp	e2ef38abb261c326
+13	1534	7486119214915734	C:/IT/Forma/build/Desktop_Qt_shared_MinGW_w64_MINGW64_MSYS2-Debug/Forma_autogen/mocs_compilation.cpp	e2ef38abb261c326
+1620	8786	7486119217467588	CMakeFiles/Forma.dir/main.cpp.obj	9048dc0e64e9a9e4
+1612	9126	7486119217397584	CMakeFiles/Forma.dir/Forma_autogen/mocs_compilation.cpp.obj	ce9cce2d21d0a494
+1626	9186	7486119217527569	CMakeFiles/Forma.dir/mainwindow.cpp.obj	e5481b89785eb690
