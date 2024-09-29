@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ui version="4.0">
- <class>Calc_form</class>
- <widget class="QDialog" name="Calc_form">
+ <class>Calc_Form</class>
+ <widget class="QWidget" name="Calc_Form">
   <property name="geometry">
    <rect>
     <x>0</x>
@@ -11,9 +11,9 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>Dialog</string>
+   <string>Widget</string>
   </property>
-  <widget class="QWidget" name="">
+  <widget class="QWidget" name="layoutWidget">
    <property name="geometry">
     <rect>
      <x>70</x>

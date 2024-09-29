@@ -1,4 +1,5 @@
 #include "calc_form.h"
+#include "ui_calc_form.h"
 
 Calc_Form::Calc_Form(QWidget *parent)
     : QWidget(parent)
